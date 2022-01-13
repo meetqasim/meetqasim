@@ -1,0 +1,15 @@
+/* input[type="password"]{
+    color: red;
+}
+
+input[type="text"]{
+    color: blue;
+} */
+
+.text-color{
+    color: red;
+}
+
+.float-margin{
+    margin-left: 8px;
+}
